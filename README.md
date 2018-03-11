@@ -1,2 +1,0 @@
-# SimpleSmokeGrenade
-SimpleSmokeGrenade Source Code

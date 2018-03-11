@@ -1,0 +1,15 @@
+main: com.hotmail.SimpleSmokeGrenade.Main
+name: SimpleSmokeGrenade
+author: AdrianSR
+version: 1.0.0
+
+commands: 
+  SmokeGrenade:
+    usage: /SmokeGrenade
+    description: Give a SmokeGrenade to a Player
+    aliases: [sg, smg]
+    
+permissions:
+  smokegrenade.use:
+    description: Allow players to use the command "/SmokeGrenade"
+    default: false

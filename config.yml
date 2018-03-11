@@ -1,0 +1,25 @@
+########### Grenade Name
+###### Grenade Item Name
+GrenadeName: '&f&lSmokeGrenade'
+
+########### Time to Explode
+###### Seconds to wait for the explosion. (in Seconds)
+ExplodeTime: 5
+
+########### Smoke Time
+###### Duration of the smoke in the air. (in Seconds)
+SmokeDuration: 15
+
+########## Delay
+###### Seconds to wait for use again. (in Seconds)
+Delay: 5
+DelayMessage: '&cYou have to wait {SECONDS} seconds to use the grenade again'
+
+########## Command Delay
+###### Seconds to wait for use the command again. (in Seconds)
+CommandDelay: 60
+CommandDelayMessage: '&cYou have to wait {SECONDS} seconds to use this command again'
+
+########## Visible Time to Explode
+###### Do you want to be able to see the seconds before exploding?
+VisibleExplodeTime: true
